@@ -1,0 +1,3 @@
+[{ "directory": "/Users/ritwik/knr",
+    "arguments": ["/usr/bin/clang","-o", "pg", "pg.c"],
+    "file": "pg.c" }]
